@@ -1,6 +1,6 @@
 Esto es un título CAMBIO
 
-Esto es un título centrado
+Esto es un título centrado QUE PASA TRONCO
 
 Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
